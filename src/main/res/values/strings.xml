@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChongTrom</string>
+
+        <!-- Các chuỗi khác -->
+    <string name="open_drawer">Mở menu</string>
+    <string name="close_drawer">Đóng menu</string>
+
+</resources>
