@@ -1,5 +1,5 @@
-#include <ESP8266WiFi.h>        // Nếu sử dụng ESP32, thay bằng <WiFi.h>
-#include <FirebaseESP8266.h>   // Nếu sử dụng ESP32, thay bằng <FirebaseESP32.h>
+#include <ESP8266WiFi.h>        
+#include <FirebaseESP8266.h> 
 #include <time.h>              // Thư viện xử lý thời gian
 #include <ArduinoJson.h>       // Thêm thư viện ArduinoJson
 
